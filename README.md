@@ -1,4 +1,4 @@
-# Credit-card-consumption---HACKATHON
+# Credit Consumption Prediction ---HACKATHON
 
 # Problem Statement
 
